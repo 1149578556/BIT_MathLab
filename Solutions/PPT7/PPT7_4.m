@@ -7,6 +7,6 @@ plot(t1,y1(:,1),'bo','DisplayName','ode45')
 legend
 grid on
 
-function f=func(x,t)
+function f=func(x,~)
 f=x+2*x^2+3*x^3;
 end

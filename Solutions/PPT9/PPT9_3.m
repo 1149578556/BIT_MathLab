@@ -12,3 +12,5 @@ for i=1:n                         % 遍历每一行
     end
 end
 A_inv=adjA/A_det;                 % 计算A的逆矩阵
+disp('矩阵A的逆矩阵为：');
+disp(A_inv);
