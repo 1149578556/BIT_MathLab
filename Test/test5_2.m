@@ -1,6 +1,7 @@
 [t,x]=ode45('compete',[0 10],[1;1]);
 
 plot(t,x(:,1), 'r', t,x(:,2), 'b');
+axis([0 0.35 1 4])
 xlabel('t');
 ylabel('解');
 legend('x(t)', 'y(t)');
