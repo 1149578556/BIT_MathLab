@@ -9,7 +9,9 @@
 - **课程名称**：数学实验与实践
 - **适用对象**：数学与统计学院大三小学期《数学实验与实践》
 - **开发环境**：MATLAB 或 VSCode + MATLAB
+- **项目地址**： [GitHub地址](https://github.com/1149578556/BIT_MathLab)或[Gitee地址](https://gitee.com/y1149578556/BIT_MathLab.git)
 - **AI工具**：Deepseek 或 Copilot(VScode插件) 辅助编程
+- **温馨提示**：初学者勿过度依赖AI辅助编程
 
 ## 开发环境推荐
 
